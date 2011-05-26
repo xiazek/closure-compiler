@@ -1,3 +1,8 @@
+h1. Fork is created to fix a problem with multiple --extern parameters passed to compiler.
+
+On 25th of may 2011 it was pulled to original project to master. 
+*It is advised to use documentcloud/closure-compiler version.*
+
 h1. The Closure Compiler (as a Ruby Gem)
 
 The *closure-compiler* gem is a svelte wrapper around the "Google Closure Compiler":http://code.google.com/closure/compiler/ for JavaScript compression.
